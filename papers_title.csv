@@ -1,0 +1,516 @@
+paper_id,title,year
+1706.03762v7,Attention Is All You Need,2017
+1810.04805v2,BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding,2018
+2005.14165v4,Language Models are Few-Shot Learners,2020
+1409.3215v3,Sequence to Sequence Learning with Neural Networks,2014
+1312.6114v11,Auto-Encoding Variational Bayes,2013
+1406.2661v1,Generative Adversarial Networks,2014
+1512.03385v1,Deep Residual Learning for Image Recognition,2015
+1404.5997v2,One weird trick for parallelizing convolutional neural networks,2014
+1301.3781v3,Efficient Estimation of Word Representations in Vector Space,2013
+1607.04606v2,Enriching Word Vectors with Subword Information,2016
+1506.02640v5,"You Only Look Once: Unified, Real-Time Object Detection",2015
+1712.01815v1,Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm,2017
+2006.11239v2,Denoising Diffusion Probabilistic Models,2020
+2103.00020v1,Learning Transferable Visual Models From Natural Language Supervision,2021
+2102.12092v2,Zero-Shot Text-to-Image Generation,2021
+2102.09943v2,Towards Emotion Recognition in Hindi-English Code-Mixed Data: A Transformer Based Approach,2021
+2411.05036v1,"From Word Vectors to Multimodal Embeddings: Techniques, Applications, and Future Directions For Large Language Models",2024
+2108.02044v1,A Comparison of Different Source Code Representation Methods for Vulnerability Prediction in Python,2021
+2406.10981v1,ViD-GPT: Introducing GPT-style Autoregressive Generation in Video Diffusion Models,2024
+2312.10628v2,T2M-HiFiGPT: Generating High Quality Human Motion from Textual Descriptions with Residual Discrete Representations,2023
+2304.07973v3,Frequency Regularization: Restricting Information Redundancy of Convolutional Neural Networks,2023
+2409.17120v1,"Deep Learning and Machine Learning, Advancing Big Data Analytics and Management: Handy Appetizer",2024
+2104.10157v2,VideoGPT: Video Generation using VQ-VAE and Transformers,2021
+2412.07797v1,Mogo: RQ Hierarchical Causal Transformer for High-Quality 3D Human Motion Generation,2024
+2010.06925v2,DA-Transformer: Distance-aware Transformer,2020
+2508.14502v1,SATURN: Autoregressive Image Generation Guided by Scene Graphs,2025
+2505.09568v1,"BLIP3-o: A Family of Fully Open Unified Multimodal Models-Architecture, Training and Dataset",2025
+2205.05862v3,AdaVAE: Exploring Adaptive GPT-2s in Variational Auto-Encoders for Language Modeling,2022
+2201.06159v2,YOLO -- You only look 10647 times,2022
+1711.09091v1,Demystifying AlphaGo Zero as AlphaGo GAN,2017
+2205.14304v1,Multimodal Fake News Detection via CLIP-Guided Learning,2022
+2104.08145v2,KI-BERT: Infusing Knowledge Context for Better Language and Domain Understanding,2021
+2305.02567v1,LayoutDM: Transformer-based Diffusion Model for Layout Generation,2023
+2301.06052v4,T2M-GPT: Generating Human Motion from Textual Descriptions with Discrete Representations,2023
+2210.05559v2,"Unifying Diffusion Models' Latent Space, with Applications to CycleDiffusion and Guidance",2022
+2507.17066v1,Risk In Context: Benchmarking Privacy Leakage of Foundation Models in Synthetic Tabular Data Generation,2025
+2311.10242v2,"Advancements in Generative AI: A Comprehensive Review of GANs, GPT, Autoencoders, Diffusion Model, and Transformers",2023
+2405.20611v3,Bi-Directional Transformers vs. word2vec: Discovering Vulnerabilities in Lifted Compiled Code,2024
+2505.21549v4,Distill CLIP (DCLIP): Enhancing Image-Text Retrieval via Cross-Modal Transformer Distillation,2025
+2505.07809v1,A Comparative Analysis of Static Word Embeddings for Hungarian,2025
+2505.16001v1,Image-to-Image Translation with Diffusion Transformers and CLIP-Based Image Conditioning,2025
+2102.08036v1,"Exploring Transformers in Natural Language Generation: GPT, BERT, and XLNet",2021
+2409.18747v1,Cottention: Linear Transformers With Cosine Attention,2024
+2401.07310v1,Harnessing Large Language Models Over Transformer Models for Detecting Bengali Depressive Social Media Text: A Comprehensive Study,2024
+2404.07999v1,A Multi-Level Framework for Accelerating Training Transformer Models,2024
+2501.15656v2,Classifying Deepfakes Using Swin Transformers,2025
+2507.13410v1,Causal Language Control in Multilingual Transformers via Sparse Feature Steering,2025
+2408.08751v1,"Comparative Analysis of Generative Models: Enhancing Image Synthesis with VAEs, GANs, and Stable Diffusion",2024
+2509.19943v2,Interpreting ResNet-based CLIP via Neuron-Attention Decomposition,2025
+2109.12564v2,Vision Transformer Hashing for Image Retrieval,2021
+2412.04505v2,Achieving Semantic Consistency: Contextualized Word Representations for Political Text Analysis,2024
+2304.11433v1,Conditional Denoising Diffusion for Sequential Recommendation,2023
+2112.03014v1,Transformer-based Korean Pretrained Language Models: A Survey on Three Years of Progress,2021
+2109.05256v1,Multilingual Translation via Grafting Pre-trained Language Models,2021
+2105.11321v1,Neural Language Models for Nineteenth-Century English,2021
+2106.00666v3,You Only Look at One Sequence: Rethinking Transformer in Vision through Object Detection,2021
+2502.11049v1,Faces of Fairness: Examining Bias in Facial Expression Recognition Datasets and Models,2025
+2302.08908v1,LayoutDiffuse: Adapting Foundational Diffusion Models for Layout-to-Image Generation,2023
+2402.04347v1,The Hedgehog & the Porcupine: Expressive Linear Attentions with Softmax Mimicry,2024
+2105.04949v4,BERT is to NLP what AlexNet is to CV: Can Pre-Trained Language Models Identify Analogies?,2021
+2306.07981v1,Feature Engineering-Based Detection of Buffer Overflow Vulnerability in Source Code Using Neural Networks,2023
+2310.03030v3,GPT-MolBERTa: GPT Molecular Features Language Model for molecular property prediction,2023
+2108.07789v2,"Adapting GPT, GPT-2 and BERT Language Models for Speech Recognition",2021
+2211.11018v2,MagicVideo: Efficient Video Generation With Latent Diffusion Models,2022
+2502.19801v1,Text classification using machine learning methods,2025
+2109.00239v1,OptAGAN: Entropy-based finetuning on text VAE-GAN,2021
+2407.08114v1,Improving Dental Diagnostics: Enhanced Convolution with Spatial Attention Mechanism,2024
+2305.09900v2,Efficient Equivariant Transfer Learning from Pretrained Models,2023
+2408.16892v1,"Tex-ViT: A Generalizable, Robust, Texture-based dual-branch cross-attention deepfake detector",2024
+2011.10426v1,Fine-Tuning BERT for Sentiment Analysis of Vietnamese Reviews,2020
+2502.19700v3,Language-Informed Hyperspectral Image Synthesis for Imbalanced-Small Sample Classification via Semi-Supervised Conditional Diffusion Model,2025
+2010.05315v1,SMYRF: Efficient Attention using Asymmetric Clustering,2020
+2109.12547v1,Multi-modal Fusion using Fine-tuned Self-attention and Transfer Learning for Veracity Analysis of Web Information,2021
+2503.05626v1,FMT:A Multimodal Pneumonia Detection Model Based on Stacking MOE Framework,2025
+2408.16749v1,"Assessing Large Language Models for Online Extremism Research: Identification, Explanation, and New Knowledge",2024
+2401.14040v3,(Chat)GPT v BERT: Dawn of Justice for Semantic Change Detection,2024
+2505.12489v2,Video-GPT via Next Clip Diffusion,2025
+2101.10486v1,Categorical Vector Space Semantics for Lambek Calculus with a Relevant Modality (Extended Abstract),2021
+2109.10118v1,A Comprehensive Review on Summarizing Financial News Using Deep Learning,2021
+2005.03074v4,Categorical Vector Space Semantics for Lambek Calculus with a Relevant Modality,2020
+2110.15709v1,LegalNLP -- Natural Language Processing methods for the Brazilian Legal Language,2021
+2312.17292v1,Effect of dimensionality change on the bias of word embeddings,2023
+2410.15198v4,Medical-GAT: Cancer Document Classification Leveraging Graph-Based Residual Network for Scenarios with Limited Data,2024
+2310.12109v1,Monarch Mixer: A Simple Sub-Quadratic GEMM-Based Architecture,2023
+2412.03625v1,Multimodal Sentiment Analysis Based on BERT and ResNet,2024
+2402.04400v2,CEHR-GPT: Generating Electronic Health Records with Chronological Patient Timelines,2024
+1908.06327v1,Language Features Matter: Effective Language Representations for Vision-Language Tasks,2019
+2308.13958v1,"Improving Knowledge Distillation for BERT Models: Loss Functions, Mapping Methods, and Weight Tuning",2023
+2407.09187v1,"Enhancing Depressive Post Detection in Bangla: A Comparative Study of TF-IDF, BERT and FastText Embeddings",2024
+2306.01654v2,Insights into Closed-form IPM-GAN Discriminator Guidance for Diffusion Modeling,2023
+1812.11760v2,Multilingual Constituency Parsing with Self-Attention and Pre-Training,2018
+2411.17454v1,FLEX-CLIP: Feature-Level GEneration Network Enhanced CLIP for X-shot Cross-modal Retrieval,2024
+2502.06999v2,Outsourced diffusion sampling: Efficient posterior inference in latent spaces of generative models,2025
+2311.10395v2,Bias A-head? Analyzing Bias in Transformer-Based Language Model Attention Heads,2023
+2406.04983v1,CityCraft: A Real Crafter for 3D City Generation,2024
+2011.04266v1,BERT-JAM: Boosting BERT-Enhanced Neural Machine Translation with Joint Attention,2020
+2405.12990v1,BERT vs GPT for financial engineering,2024
+2306.08616v5,Towards Automated Identification of Violation Symptoms of Architecture Erosion,2023
+2411.18936v2,Self-Cross Diffusion Guidance for Text-to-Image Synthesis of Similar Subjects,2024
+2501.13133v1,Graph Representation Learning with Diffusion Generative Models,2025
+2504.16761v1,Tri-FusionNet: Enhancing Image Description Generation with Transformer-based Fusion Network and Dual Attention Mechanism,2025
+2307.11122v1,Diffusion Models for Probabilistic Deconvolution of Galaxy Images,2023
+2404.02990v1,ASAP: Interpretable Analysis and Summarization of AI-generated Image Patterns at Scale,2024
+2505.17363v1,Are GNNs Worth the Effort for IoT Botnet Detection? A Comparative Study of VAE-GNN vs. ViT-MLP and VAE-MLP Approaches,2025
+2204.09292v1,Towards Arabic Sentence Simplification via Classification and Generative Approaches,2022
+2509.20813v1,Revolutionizing Precise Low Back Pain Diagnosis via Contrastive Learning,2025
+2003.12137v1,Cycle Text-To-Image GAN with BERT,2020
+2503.08455v1,Controlling Latent Diffusion Using Latent CLIP,2025
+2507.23357v2,Foundations and Models in Modern Computer Vision: Key Building Blocks in Landmark Architectures,2025
+2407.09157v1,Movie Recommendation with Poster Attention via Multi-modal Transformer Feature Fusion,2024
+2304.01489v2,Improved Visual Fine-tuning with Natural Language Supervision,2023
+2109.00025v1,Sense representations for Portuguese: experiments with sense embeddings and deep neural language models,2021
+2504.08591v1,ZipIR: Latent Pyramid Diffusion Transformer for High-Resolution Image Restoration,2025
+2308.12045v1,CgT-GAN: CLIP-guided Text GAN for Image Captioning,2023
+2306.03678v1,On the Difference of BERT-style and CLIP-style Text Encoders,2023
+2312.02116v4,GIVT: Generative Infinite-Vocabulary Transformers,2023
+2408.13909v1,LowCLIP: Adapting the CLIP Model Architecture for Low-Resource Languages in Multimodal Image Retrieval Task,2024
+2508.16225v1,An Investigation of Visual Foundation Models Robustness,2025
+2508.02050v1,Why Generate When You Can Transform? Unleashing Generative Attention for Dynamic Recommendation,2025
+2206.06501v1,Optimal Clipping and Magnitude-aware Differentiation for Improved Quantization-aware Training,2022
+2306.02348v1,Leverage Points in Modality Shifts: Comparing Language-only and Multimodal Word Representations,2023
+2010.00310v3,"""Did you really mean what you said?"" : Sarcasm Detection in Hindi-English Code-Mixed Data using Bilingual Word Embeddings",2020
+2412.18917v1,Open-Vocabulary Panoptic Segmentation Using BERT Pre-Training of Vision-Language Multiway Transformer Model,2024
+2209.06950v8,Lossy Image Compression with Conditional Diffusion Models,2022
+2311.17400v2,Improving the Robustness of Transformer-based Large Language Models with Dynamic Attention,2023
+2411.11672v2,Artificial Scientific Discovery,2024
+2111.07036v2,Introducing Variational Autoencoders to High School Students,2021
+2410.18897v1,Generation of synthetic financial time series by diffusion models,2024
+2101.00063v2,EarlyBERT: Efficient BERT Training via Early-bird Lottery Tickets,2020
+1704.00028v3,Improved Training of Wasserstein GANs,2017
+2412.18390v2,RDPM: Solve Diffusion Probabilistic Models via Recurrent Token Prediction,2024
+2405.08114v1,RATLIP: Generative Adversarial CLIP Text-to-Image Synthesis Based on Recurrent Affine Transformations,2024
+2102.12149v1,Sentiment Analysis of Code-Mixed Social Media Text (Hinglish),2021
+2406.03233v1,Generative Diffusion Models for Fast Simulations of Particle Collisions at CERN,2024
+2312.05464v1,Identifying and Mitigating Model Failures through Few-shot CLIP-aided Diffusion Generation,2023
+2011.14496v1,Blind signal decomposition of various word embeddings based on join and individual variance explained,2020
+1904.09408v2,Language Models with Transformers,2019
+1909.02635v1,Effective Use of Transformer Networks for Entity Tracking,2019
+2507.08499v1,PromotionGo at SemEval-2025 Task 11: A Feature-Centric Framework for Cross-Lingual Multi-Emotion Detection in Short Texts,2025
+2312.10365v1,SPT: Fine-Tuning Transformer-based Language Models Efficiently with Sparsification,2023
+2502.12048v2,A Survey on Bridging EEG Signals and Generative AI: From Image and Text to Beyond,2025
+2309.12689v3,AMPLIFY:Attention-based Mixup for Performance Improvement and Label Smoothing in Transformer,2023
+2410.10914v1,Towards Better Multi-head Attention via Channel-wise Sample Permutation,2024
+2503.01898v1,"VAEs and GANs: Implicitly Approximating Complex Distributions with Simple Base Distributions and Deep Neural Networks -- Principles, Necessity, and Limitations",2025
+2205.01335v1,Predicting Issue Types with seBERT,2022
+1805.06621v1,Generative networks as inverse problems with Scattering transforms,2018
+2105.05885v1,Playing Codenames with Language Graphs and Word Embeddings,2021
+2111.08658v1,A Comparative Study on Transfer Learning and Distance Metrics in Semantic Clustering over the COVID-19 Tweets,2021
+2508.03042v1,Urban In-Context Learning: Bridging Pretraining and Inference through Masked Diffusion for Urban Profiling,2025
+2401.09596v5,Efficient generative adversarial networks using linear additive-attention Transformers,2024
+2105.14257v4,Diffusion-Based Representation Learning,2021
+2306.12929v2,Quantizable Transformers: Removing Outliers by Helping Attention Heads Do Nothing,2023
+2210.13774v1,From Points to Functions: Infinite-dimensional Representations in Diffusion Models,2022
+2204.04477v1,"FoundationLayerNorm: Scaling BERT and GPT to 1,000 Layers",2022
+2506.07357v1,CBAM-STN-TPS-YOLO: Enhancing Agricultural Object Detection through Spatially Adaptive Attention Mechanisms,2025
+2207.09740v1,Interpreting Latent Spaces of Generative Models for Medical Images using Unsupervised Methods,2022
+2303.17728v2,Evaluation of GPT and BERT-based models on identifying protein-protein interactions in biomedical text,2023
+2008.12522v1,An Intelligent CNN-VAE Text Representation Technology Based on Text Semantics for Comprehensive Big Data,2020
+2403.12481v2,TT-BLIP: Enhancing Fake News Detection Using BLIP and Tri-Transformer,2024
+2310.17170v6,DecoderTracker: Decoder-Only Method for Multiple-Object Tracking,2023
+2310.18169v1,Style Description based Text-to-Speech with Conditional Prosodic Layer Normalization based Diffusion GAN,2023
+2312.16649v1,Forgery-aware Adaptive Transformer for Generalizable Synthetic Image Detection,2023
+2502.19276v1,Disentangled VAD Representations via a Variational Framework for Political Stance Detection,2025
+2307.05083v1,Vacaspati: A Diverse Corpus of Bangla Literature,2023
+2509.00731v1,LLM Encoder vs. Decoder: Robust Detection of Chinese AI-Generated Text with LoRA,2025
+2508.03457v2,READ: Real-time and Efficient Asynchronous Diffusion for Audio-driven Talking Head Generation,2025
+2305.13673v4,"Physics of Language Models: Part 1, Learning Hierarchical Language Structures",2023
+2406.05835v2,Mamba YOLO: A Simple Baseline for Object Detection with State Space Model,2024
+2310.17683v1,Sliceformer: Make Multi-head Attention as Simple as Sorting in Discriminative Tasks,2023
+2103.01566v3,CG-CNN: Self-Supervised Feature Extraction Through Contextual Guidance and Transfer Learning,2021
+2501.01311v2,Multi-Head Explainer: A General Framework to Improve Explainability in CNNs and Transformers,2025
+2010.13404v3,Robust and Consistent Estimation of Word Embedding for Bangla Language by fine-tuning Word2Vec Model,2020
+2411.01647v1,Optical Flow Representation Alignment Mamba Diffusion Model for Medical Video Generation,2024
+2411.17661v3,Non-Contextual BERT or FastText? A Comparative Analysis,2024
+2509.16804v1,KuBERT: Central Kurdish BERT Model and Its Application for Sentiment Analysis,2025
+2501.00103v1,LTX-Video: Realtime Video Latent Diffusion,2024
+2410.12489v2,Synthetic Augmentation for Anatomical Landmark Localization using DDPMs,2024
+2410.24159v2,GPT or BERT: why not both?,2024
+2405.20895v2,A comparison of correspondence analysis with PMI-based word embedding methods,2024
+2209.15421v2,TabDDPM: Modelling Tabular Data with Diffusion Models,2022
+2010.07523v2,Context-Guided BERT for Targeted Aspect-Based Sentiment Analysis,2020
+2506.16255v1,Category-based Galaxy Image Generation via Diffusion Models,2025
+2004.13138v1,Investigating the Effectiveness of Representations Based on Pretrained Transformer-based Language Models in Active Learning for Labelling Text Datasets,2020
+2304.08291v1,Refusion: Enabling Large-Size Realistic Image Restoration with Latent-Space Diffusion Models,2023
+2407.11439v1,Repurformer: Transformers for Repurposing-Aware Molecule Generation,2024
+2209.11527v1,An artificial neural network-based system for detecting machine failures using tiny sound data: A case study,2022
+1902.08691v4,Enhancing Clinical Concept Extraction with Contextual Embeddings,2019
+2306.11339v3,Masking meets Supervision: A Strong Learning Alliance,2023
+1912.05617v1,Molecular Generative Model Based On Adversarially Regularized Autoencoder,2019
+2506.22298v1,OutDreamer: Video Outpainting with a Diffusion Transformer,2025
+2101.04899v2,Experimental Evaluation of Deep Learning models for Marathi Text Classification,2021
+2003.14194v2,Attention-based Assisted Excitation for Salient Object Detection,2020
+2206.01861v1,ZeroQuant: Efficient and Affordable Post-Training Quantization for Large-Scale Transformers,2022
+2104.10935v2,SoT: Delving Deeper into Classification Head for Transformer,2021
+2509.16518v1,FG-Attn: Leveraging Fine-Grained Sparsity In Diffusion Transformers,2025
+2204.07018v1,From Environmental Sound Representation to Robustness of 2D CNN Models Against Adversarial Attacks,2022
+2009.14384v1,Development of Word Embeddings for Uzbek Language,2020
+2111.05826v2,Palette: Image-to-Image Diffusion Models,2021
+2509.20581v1,Hierarchical Resolution Transformers: A Wavelet-Inspired Architecture for Multi-Scale Language Understanding,2025
+1911.03829v3,Distilling Knowledge Learned in BERT for Text Generation,2019
+2309.10450v1,Unsupervised speech enhancement with diffusion-based generative models,2023
+2305.11413v1,A Preliminary Study on Augmenting Speech Emotion Recognition using a Diffusion Model,2023
+2401.00869v1,FlashVideo: A Framework for Swift Inference in Text-to-Video Generation,2023
+2411.17459v3,WF-VAE: Enhancing Video VAE by Wavelet-Driven Energy Flow for Latent Video Diffusion Model,2024
+2406.03459v1,LW-DETR: A Transformer Replacement to YOLO for Real-Time Detection,2024
+2006.15255v1,Smile-GANs: Semi-supervised clustering via GANs for dissecting brain disease heterogeneity from medical images,2020
+2206.15195v1,The Topological BERT: Transforming Attention into Topology for Natural Language Processing,2022
+2407.12705v2,IMAGDressing-v1: Customizable Virtual Dressing,2024
+2506.08348v1,Pureformer-VC: Non-parallel Voice Conversion with Pure Stylized Transformer Blocks and Triplet Discriminative Training,2025
+2412.17808v3,Dora: Sampling and Benchmarking for 3D Shape Variational Auto-Encoders,2024
+2106.14609v1,Neural Models for Offensive Language Detection,2021
+2507.10013v1,Cross-modal Associations in Vision and Language Models: Revisiting the bouba-kiki effect,2025
+1909.10670v5,Subsampling Generative Adversarial Networks: Density Ratio Estimation in Feature Space with Softplus Loss,2019
+2412.15129v1,Jet: A Modern Transformer-Based Normalizing Flow,2024
+2506.03191v1,Multimodal Generative AI with Autoregressive LLMs for Human Motion Understanding and Generation: A Way Forward,2025
+2506.19278v1,Style Transfer: A Decade Survey,2025
+1706.03729v2,Channel-Recurrent Autoencoding for Image Modeling,2017
+2405.04053v1,Evaluating Text Summaries Generated by Large Language Models Using OpenAI's GPT,2024
+1702.05531v1,Analysis and Optimization of fastText Linear Text Classifier,2017
+2411.10543v1,SoftLMs: Efficient Adaptive Low-Rank Approximation of Language Models using Soft-Thresholding Mechanism,2024
+2501.06658v1,Comparing Few-Shot Prompting of GPT-4 LLMs with BERT Classifiers for Open-Response Assessment in Tutor Equity Training,2025
+2507.18074v1,AlphaGo Moment for Model Architecture Discovery,2025
+2411.18021v1,Can bidirectional encoder become the ultimate winner for downstream applications of foundation models?,2024
+1904.04866v1,Characterizing the impact of geometric properties of word embeddings on task performance,2019
+2208.02743v3,Integrating Knowledge Graph embedding and pretrained Language Models in Hypercomplex Spaces,2022
+2502.18952v2,DualSpec: Text-to-spatial-audio Generation via Dual-Spectrogram Guided Diffusion Model,2025
+2303.02648v1,Comparative study of Transformer and LSTM Network with attention mechanism on Image Captioning,2023
+2410.19429v1,Generative Diffusion Models for Sequential Recommendations,2024
+2102.10934v1,Using Prior Knowledge to Guide BERT's Attention in Semantic Textual Matching Tasks,2021
+2005.12766v2,CERT: Contrastive Self-supervised Learning for Language Understanding,2020
+2411.13383v2,Adversarial Diffusion Compression for Real-World Image Super-Resolution,2024
+2304.01053v1,ViT-DAE: Transformer-driven Diffusion Autoencoder for Histopathology Image Analysis,2023
+2405.03025v2,Matten: Video Generation with Mamba-Attention,2024
+2102.10555v2,Improving Action Quality Assessment using Weighted Aggregation,2021
+2111.02387v3,An Empirical Study of Training End-to-End Vision-and-Language Transformers,2021
+2408.17046v2,Text-to-Image Generation Via Energy-Based CLIP,2024
+2104.08268v1,Data Augmentation for Voice-Assistant NLU using BERT-based Interchangeable Rephrase,2021
+2502.03426v1,TruePose: Human-Parsing-guided Attention Diffusion for Full-ID Preserving Pose Transfer,2025
+2504.10483v1,REPA-E: Unlocking VAE for End-to-End Tuning with Latent Diffusion Transformers,2025
+1803.05963v1,Studying Invariances of Trained Convolutional Neural Networks,2018
+2411.12703v3,Strengthening False Information Propagation Detection: Leveraging SVM and Sophisticated Text Vectorization Techniques in comparison to BERT,2024
+2410.02763v1,Vinoground: Scrutinizing LMMs over Dense Temporal Reasoning with Short Videos,2024
+2410.05346v3,AnyAttack: Towards Large-scale Self-supervised Adversarial Attacks on Vision-language Models,2024
+2303.09119v2,Taming Diffusion Models for Audio-Driven Co-Speech Gesture Generation,2023
+2308.14484v2,Multimodal Detection of Bots on X (Twitter) using Transformers,2023
+2411.00769v3,GameGen-X: Interactive Open-world Game Video Generation,2024
+2112.03162v2,Embedding Arithmetic of Multimodal Queries for Image Retrieval,2021
+2101.04355v2,Neural Contract Element Extraction Revisited: Letters from Sesame Street,2021
+2502.11532v1,Control-CLIP: Decoupling Category and Style Guidance in CLIP for Specific-Domain Generation,2025
+2301.03588v2,Multiscale Metamorphic VAE for 3D Brain MRI Synthesis,2023
+2104.08433v2,Are Word Embedding Methods Stable and Should We Care About It?,2021
+2502.09935v1,Precise Parameter Localization for Textual Generation in Diffusion Models,2025
+2507.13546v1,$\nabla$NABLA: Neighborhood Adaptive Block-Level Attention,2025
+1703.08961v2,Scaling the Scattering Transform: Deep Hybrid Networks,2017
+2010.15316v1,Multiple Sclerosis Severity Classification From Clinical Text,2020
+2210.06423v2,Foundation Transformers,2022
+2209.02950v1,Visual Transformer for Soil Classification,2022
+2305.15719v1,Efficient Neural Music Generation,2023
+2407.11104v2,Exploring the Potentials and Challenges of Deep Generative Models in Product Design Conception,2024
+2303.03131v2,Video Question Answering Using CLIP-Guided Visual-Text Attention,2023
+2009.08820v2,FarsTail: A Persian Natural Language Inference Dataset,2020
+2502.10650v2,Generative Adversarial Networks for High-Dimensional Item Factor Analysis: A Deep Adversarial Learning Algorithm,2025
+2301.12959v1,GALIP: Generative Adversarial CLIPs for Text-to-Image Synthesis,2023
+2401.10379v1,Agricultural Object Detection with You Look Only Once (YOLO) Algorithm: A Bibliometric and Systematic Literature Review,2024
+1809.01771v1,An Analysis of Hierarchical Text Classification Using Word Embeddings,2018
+2409.09724v3,MFCLIP: Multi-modal Fine-grained CLIP for Generalizable Diffusion Face Forgery Detection,2024
+2509.07936v2,Feature Space Analysis by Guided Diffusion Model,2025
+2509.25792v1,PUREVQ-GAN: Defending Data Poisoning Attacks through Vector-Quantized Bottlenecks,2025
+2412.16455v1,Research on Violent Text Detection System Based on BERT-fasttext Model,2024
+2502.17119v1,"Diffusion Models for Tabular Data: Challenges, Current Progress, and Future Directions",2025
+2110.12200v2,Hate and Offensive Speech Detection in Hindi and Marathi,2021
+2402.13737v2,RNDiff: Rainfall nowcasting with Condition Diffusion Model,2024
+2003.12424v2,Weakly-Supervised Action Localization by Generative Attention Modeling,2020
+2007.10055v2,Morphological Skip-Gram: Using morphological knowledge to improve word representation,2020
+2402.03687v3,Pard: Permutation-Invariant Autoregressive Diffusion for Graph Generation,2024
+2506.07330v1,JavelinGuard: Low-Cost Transformer Architectures for LLM Security,2025
+2309.08568v2,Denoising Diffusion Probabilistic Models for Hardware-Impaired Communications,2023
+2311.00496v1,Generating HSR Bogie Vibration Signals via Pulse Voltage-Guided Conditional Diffusion Model,2023
+1911.04361v1,Attending to Entities for Better Text Understanding,2019
+2406.03438v2,CSI-GPT: Integrating Generative Pre-Trained Transformer with Federated-Tuning to Acquire Downlink Massive MIMO Channels,2024
+2209.15264v2,Diffusion-based Image Translation using Disentangled Style and Content Representation,2022
+2206.13393v2,Cross-Modal Transformer GAN: A Brain Structure-Function Deep Fusing Framework for Alzheimer's Disease,2022
+2305.14243v5,Training Transitive and Commutative Multimodal Transformers with LoReTTa,2023
+2503.14325v1,LeanVAE: An Ultra-Efficient Reconstruction VAE for Video Diffusion Models,2025
+1905.07504v2,Story Ending Prediction by Transferable BERT,2019
+2207.03037v1,Sensitivity Analysis on Transferred Neural Architectures of BERT and GPT-2 for Financial Sentiment Analysis,2022
+2411.13552v3,REDUCIO! Generating 1K Video within 16 Seconds using Extremely Compressed Motion Latents,2024
+1907.07507v2,Differentiable Disentanglement Filter: an Application Agnostic Core Concept Discovery Probe,2019
+2412.01372v1,Research on Cervical Cancer p16/Ki-67 Immunohistochemical Dual-Staining Image Recognition Algorithm Based on YOLO,2024
+1906.02192v1,Large-Scale Multi-Label Text Classification on EU Legislation,2019
+2212.13596v1,Semi-supervised multiscale dual-encoding method for faulty traffic data detection,2022
+2311.08579v1,Graph-Induced Syntactic-Semantic Spaces in Transformer-Based Variational AutoEncoders,2023
+2410.12501v1,DH-VTON: Deep Text-Driven Virtual Try-On via Hybrid Attention Learning,2024
+2405.15506v4,Learning to Discretize Denoising Diffusion ODEs,2024
+2412.13237v1,Optimized two-stage AI-based Neural Decoding for Enhanced Visual Stimulus Reconstruction from fMRI Data,2024
+2412.19867v2,Data-Free Group-Wise Fully Quantized Winograd Convolution via Learnable Scales,2024
+2406.19407v8,YOLO advances to its genesis: a decadal and comprehensive review of the You Only Look Once (YOLO) series,2024
+2312.14400v1,Unveiling Backbone Effects in CLIP: Exploring Representational Synergies and Variances,2023
+2203.04946v3,Do better ImageNet classifiers assess perceptual similarity better?,2022
+1912.03194v2,Why are Adaptive Methods Good for Attention Models?,2019
+1904.05152v1,NLPR@SRPOL at SemEval-2019 Task 6 and Task 5: Linguistically enhanced deep learning offensive sentence classifier,2019
+2405.19751v2,HQ-DiT: Efficient Diffusion Transformer with FP4 Hybrid Quantization,2024
+2312.00817v3,TimelyGPT: Extrapolatable Transformer Pre-training for Long-term Time-Series Forecasting in Healthcare,2023
+2505.17412v2,Direct3D-S2: Gigascale 3D Generation Made Easy with Spatial Sparse Attention,2025
+2502.18816v1,Grad-ECLIP: Gradient-based Visual and Textual Explanations for CLIP,2025
+2508.04818v1,Single-Step Reconstruction-Free Anomaly Detection and Segmentation via Diffusion Models,2025
+2308.06294v2,Enhancing Phenotype Recognition in Clinical Notes Using Large Language Models: PhenoBCBERT and PhenoGPT,2023
+2509.09721v1,A Multimodal RAG Framework for Housing Damage Assessment: Collaborative Optimization of Image Encoding and Policy Vector Retrieval,2025
+2404.08654v1,Optimal path for Biomedical Text Summarization Using Pointer GPT,2024
+2203.09055v1,Fine- and Coarse-Granularity Hybrid Self-Attention for Efficient BERT,2022
+2304.08369v1,New Product Development (NPD) through Social Media-based Analysis by Comparing Word2Vec and BERT Word Embeddings,2023
+2011.13633v2,CoRe: An Efficient Coarse-refined Training Framework for BERT,2020
+2305.06159v1,A Review of Vision-Language Models and their Performance on the Hateful Memes Challenge,2023
+2104.08335v1,Demystifying BERT: Implications for Accelerator Design,2021
+2005.05442v2,On the Generation of Medical Dialogues for COVID-19,2020
+2508.03920v1,Deep learning framework for crater detection and identification on the Moon and Mars,2025
+1910.06188v2,Q8BERT: Quantized 8Bit BERT,2019
+2201.10766v1,"A Comprehensive Study of Image Classification Model Sensitivity to Foregrounds, Backgrounds, and Visual Attributes",2022
+1912.02703v1,Self-Supervised Contextual Language Representation of Radiology Reports to Improve the Identification of Communication Urgency,2019
+2002.05902v1,Understanding patient complaint characteristics using contextual clinical BERT embeddings,2020
+2010.10267v2,Text Classification of Manifestos and COVID-19 Press Briefings using BERT and Convolutional Neural Networks,2020
+1809.07575v1,Symbolic Music Genre Transfer with CycleGAN,2018
+2508.20640v1,CraftGraffiti: Exploring Human Identity with Custom Graffiti Art via Facial-Preserving Diffusion Models,2025
+2401.13220v1,Segment Any Cell: A SAM-based Auto-prompting Fine-tuning Framework for Nuclei Segmentation,2024
+2112.00247v1,Adversarial Attacks Against Deep Generative Models on Data: A Survey,2021
+1911.12246v1,Do Attention Heads in BERT Track Syntactic Dependencies?,2019
+2012.15150v2,Improving BERT with Syntax-aware Local Attention,2020
+2412.00359v2,Does Self-Attention Need Separate Weights in Transformers?,2024
+2312.08029v1,ClusterDDPM: An EM clustering framework with Denoising Diffusion Probabilistic Models,2023
+2506.13843v1,BlastDiffusion: A Latent Diffusion Model for Generating Synthetic Embryo Images to Address Data Scarcity in In Vitro Fertilization,2025
+2401.14111v3,Image Synthesis with Graph Conditioning: CLIP-Guided Diffusion Models for Scene Graphs,2024
+2402.12927v1,CLIPping the Deception: Adapting Vision-Language Models for Universal Deepfake Detection,2024
+2311.08835v4,Correlation-Guided Query-Dependency Calibration for Video Temporal Grounding,2023
+2407.10468v1,LiteFocus: Accelerated Diffusion Inference for Long Audio Synthesis,2024
+2305.02541v2,Catch Missing Details: Image Reconstruction with Frequency Augmented Variational Autoencoder,2023
+2204.07537v2,Unconditional Image-Text Pair Generation with Multimodal Cross Quantizer,2022
+2409.15173v1,Recommendation with Generative Models,2024
+2504.19876v1,DeeCLIP: A Robust and Generalizable Transformer-Based Framework for Detecting AI-Generated Images,2025
+2404.18772v1,"Saliency Suppressed, Semantics Surfaced: Visual Transformations in Neural Networks and the Brain",2024
+2405.00672v1,TexSliders: Diffusion-Based Texture Editing in CLIP Space,2024
+2409.18868v1,Individuation in Neural Models with and without Visual Grounding,2024
+2507.14231v1,Beyond Architectures: Evaluating the Role of Contextual Embeddings in Detecting Bipolar Disorder on Social Media,2025
+2309.16206v2,Alzheimer's Disease Prediction via Brain Structural-Functional Deep Fusing Network,2023
+2412.21044v2,E2ED^2:Direct Mapping from Noise to Data for Enhanced Diffusion Models,2024
+1702.04782v2,Precise Recovery of Latent Vectors from Generative Adversarial Networks,2017
+2303.07585v1,Input-length-shortening and text generation via attention values,2023
+2305.02594v2,Multimodal-driven Talking Face Generation via a Unified Diffusion-based Generator,2023
+2501.11325v1,CatV2TON: Taming Diffusion Transformers for Vision-Based Virtual Try-On with Temporal Concatenation,2025
+2507.05092v1,MoDiT: Learning Highly Consistent 3D Motion Coefficients with Diffusion Transformer for Talking Head Generation,2025
+2207.13529v2,A Variational AutoEncoder for Transformers with Nonparametric Variational Information Bottleneck,2022
+2102.04782v1,Distribution Adaptive INT8 Quantization for Training CNNs,2021
+2104.10640v3,The NLP Cookbook: Modern Recipes for Transformer based Deep Learning Architectures,2021
+2210.10341v3,BioGPT: Generative Pre-trained Transformer for Biomedical Text Generation and Mining,2022
+2205.12986v4,Transcormer: Transformer for Sentence Scoring with Sliding Language Modeling,2022
+2404.01322v1,A Review of Multi-Modal Large Language and Vision Models,2024
+2211.15039v1,Renmin University of China at TRECVID 2022: Improving Video Search by Feature Fusion and Negation Understanding,2022
+2210.16621v1,Empirical Evaluation of Post-Training Quantization Methods for Language Tasks,2022
+2405.15439v1,Text-guided 3D Human Motion Generation with Keyframe-based Parallel Skip Transformer,2024
+2404.01657v1,Release of Pre-Trained Models for the Japanese Language,2024
+2004.10102v2,Attention is Not Only a Weight: Analyzing Transformers with Vector Norms,2020
+2504.03821v1,A Hybrid Wavelet-Fourier Method for Next-Generation Conditional Diffusion Models,2025
+2504.05979v2,An Empirical Study of GPT-4o Image Generation Capabilities,2025
+2312.10948v1,A Multimodal Approach for Advanced Pest Detection and Classification,2023
+2412.04473v1,Take Package as Language: Anomaly Detection Using Transformer,2024
+2501.14683v1,An Empirical Study on LLM-based Classification of Requirements-related Provisions in Food-safety Regulations,2025
+1810.13128v1,The Effect of Learning Strategy versus Inherent Architecture Properties on the Ability of Convolutional Neural Networks to Develop Transformation Invariance,2018
+2205.10683v4,Scalable and Efficient Training of Large Convolutional Neural Networks with Differential Privacy,2022
+2508.01248v1,NS-Net: Decoupling CLIP Semantic Information through NULL-Space for Generalizable AI-Generated Image Detection,2025
+2508.19495v1,Towards 6G Intelligence: The Role of Generative AI in Future Wireless Networks,2025
+2408.07583v2,Transformers and Large Language Models for Efficient Intrusion Detection Systems: A Comprehensive Survey,2024
+2505.14151v3,ReactDiff: Latent Diffusion for Facial Reaction Generation,2025
+1911.05627v1,Wavelets to the Rescue: Improving Sample Quality of Latent Variable Deep Generative Models,2019
+1706.01807v1,GAN and VAE from an Optimal Transport Point of View,2017
+2409.01093v1,DS MYOLO: A Reliable Object Detector Based on SSMs for Driving Scenarios,2024
+2305.12563v2,A Symbolic Framework for Evaluating Mathematical Reasoning and Generalisation with Transformers,2023
+2409.00587v2,FLUX that Plays Music,2024
+2506.22065v1,MirrorMe: Towards Realtime and High Fidelity Audio-Driven Halfbody Animation,2025
+2007.13703v3,From Sound Representation to Model Robustness,2020
+2210.16101v2,A Generic Shared Attention Mechanism for Various Backbone Neural Networks,2022
+2508.00591v1,Wukong Framework for Not Safe For Work Detection in Text-to-Image systems,2025
+2101.05938v1,KDLSQ-BERT: A Quantized Bert Combining Knowledge Distillation with Learned Step Size Quantization,2021
+1909.12598v1,"""Best-of-Many-Samples"" Distribution Matching",2019
+2009.01174v4,Transform Quantization for CNN (Convolutional Neural Network) Compression,2020
+2502.04116v2,Generative Adversarial Networks Bridging Art and Machine Intelligence,2025
+2505.14692v1,Sentiment Analysis in Software Engineering: Evaluating Generative Pre-trained Transformers,2025
+2203.02838v2,Leveraging Pre-trained BERT for Audio Captioning,2022
+2502.12033v1,The geometry of BERT,2025
+1805.08720v1,Adversarial Training of Word2Vec for Basket Completion,2018
+1904.07531v4,Understanding the Behaviors of BERT in Ranking,2019
+2401.02147v1,Exploring Boundary of GPT-4V on Marine Analysis: A Preliminary Case Study,2024
+2304.00501v7,A Comprehensive Review of YOLO Architectures in Computer Vision: From YOLOv1 to YOLOv8 and YOLO-NAS,2023
+2509.15496v1,Lynx: Towards High-Fidelity Personalized Video Generation,2025
+2307.07258v1,Improving BERT with Hybrid Pooling Network and Drop Mask,2023
+2203.13411v1,Reshaping Robot Trajectories Using Natural Language Commands: A Study of Multi-Modal Data Alignment Using Transformers,2022
+2305.15842v2,Text-to-Motion Retrieval: Towards Joint Understanding of Human Motion Data and Natural Language,2023
+2110.05722v3,LightSeq2: Accelerated Training for Transformer-based Models on GPUs,2021
+2211.06588v3,DEYO: DETR with YOLO for Step-by-Step Object Detection,2022
+2401.06244v1,YOLO-Former: YOLO Shakes Hand With ViT,2024
+1905.12724v4,Variational Diffusion Autoencoders with Random Walk Sampling,2019
+2402.19196v1,Generative models struggle with kirigami metamaterials,2024
+1806.03968v1,CapsGAN: Using Dynamic Routing for Generative Adversarial Networks,2018
+2508.09131v2,Training-Free Text-Guided Color Editing with Multi-Modal Diffusion Transformer,2025
+2404.13766v1,Object-Attribute Binding in Text-to-Image Generation: Evaluation and Control,2024
+2012.15197v2,SemGloVe: Semantic Co-occurrences for GloVe from BERT,2020
+2507.02734v1,Leveraging Transformer Models to Capture Multi-Scale Dynamics in Biomolecules by nano-GPT,2025
+1907.11512v1,Investigating Self-Attention Network for Chinese Word Segmentation,2019
+2506.06979v1,Research on Aerodynamic Performance Prediction of Airfoils Based on a Fusion Algorithm of Transformer and GAN,2025
+2103.08860v1,Adversarial YOLO: Defense Human Detection Patch Attacks via Detecting Adversarial Patches,2021
+2011.12133v2,Zero-Shot Audio Classification via Semantic Embeddings,2020
+1810.11190v1,"Magnitude: A Fast, Efficient Universal Vector Embedding Utility Package",2018
+2006.04513v1,Combining word embeddings and convolutional neural networks to detect duplicated questions,2020
+2107.10188v1,JEFL: Joint Embedding of Formal Proof Libraries,2021
+2104.05228v1,SuperSim: a test set for word similarity and relatedness in Swedish,2021
+2407.00611v4,StarTrail: Concentric Ring Sequence Parallelism for Efficient Near-Infinite-Context Transformer Model Training,2024
+2503.20731v1,RecTable: Fast Modeling Tabular Data with Rectified Flow,2025
+2011.02788v2,NUAA-QMUL at SemEval-2020 Task 8: Utilizing BERT and DenseNet for Internet Meme Emotion Analysis,2020
+2503.19889v2,A Multi-Agent Framework Integrating Large Language Models and Generative AI for Accelerated Metamaterial Design,2025
+2211.08892v2,Fast Graph Generation via Spectral Diffusion,2022
+2412.11836v1,UnMA-CapSumT: Unified and Multi-Head Attention-driven Caption Summarization Transformer,2024
+2412.17552v1,Comparative Analysis of Document-Level Embedding Methods for Similarity Scoring on Shakespeare Sonnets and Taylor Swift Lyrics,2024
+2106.08571v1,Discrete Auto-regressive Variational Attention Models for Text Modeling,2021
+2408.01897v1,CAF-YOLO: A Robust Framework for Multi-Scale Lesion Detection in Biomedical Imagery,2024
+2509.07627v3,LSMTCR: A Scalable Multi-Architecture Model for Epitope-Specific T Cell Receptor de novo Design,2025
+1805.12352v2,DialogWAE: Multimodal Response Generation with Conditional Wasserstein Auto-Encoder,2018
+2011.00740v3,Influence Patterns for Explaining Information Flow in BERT,2020
+2504.14260v1,Cross-attention for State-based model RWKV-7,2025
+2311.05445v1,Airfoil generation and feature extraction using the conditional VAE-WGAN-gp,2023
+2406.09837v2,TabularFM: An Open Framework For Tabular Foundational Models,2024
+1904.03164v1,Exploring Fine-Tuned Embeddings that Model Intensifiers for Emotion Analysis,2019
+2301.03018v2,Energy Disaggregation & Appliance Identification in a Smart Home: Transfer Learning enables Edge Computing,2023
+2304.04971v3,Diffusion Recommender Model,2023
+2502.19805v1,Implicit Search via Discrete Diffusion: A Study on Chess,2025
+2411.14654v3,Comparative Analysis of Pooling Mechanisms in LLMs: A Sentiment Analysis Perspective,2024
+2412.17836v1,Look Ahead Text Understanding and LLM Stitching,2024
+1704.05645v2,Skeleton based action recognition using translation-scale invariant image mapping and multi-scale deep cnn,2017
+2005.06993v1,deepSELF: An Open Source Deep Self End-to-End Learning Framework,2020
+2307.13962v1,Understanding Deep Neural Networks via Linear Separability of Hidden Layers,2023
+2502.14909v2,Comparing Deep Neural Network for Multi-Label ECG Diagnosis From Scanned ECG,2025
+2508.10230v1,No Free Lunch from Audio Pretraining in Bioacoustics: A Benchmark Study of Embeddings,2025
+2101.04158v1,BERT-GT: Cross-sentence n-ary relation extraction with BERT and Graph Transformer,2021
+2412.14580v1,DiffSim: Taming Diffusion Models for Evaluating Visual Similarity,2024
+2505.19895v1,Underwater Diffusion Attention Network with Contrastive Language-Image Joint Learning for Underwater Image Enhancement,2025
+2404.19066v1,Revolutionizing Traffic Sign Recognition: Unveiling the Potential of Vision Transformers,2024
+2402.14401v2,Diffusion Model Based Visual Compensation Guidance and Visual Difference Analysis for No-Reference Image Quality Assessment,2024
+2507.14633v1,Agentic Satellite-Augmented Low-Altitude Economy and Terrestrial Networks: A Survey on Generative Approaches,2025
+2508.09177v1,"Generative Artificial Intelligence in Medical Imaging: Foundations, Progress, and Clinical Translation",2025
+2302.02913v4,Beyond Statistical Similarity: Rethinking Metrics for Deep Generative Models in Engineering Design,2023
+2410.01816v1,"Automatic Scene Generation: State-of-the-Art Techniques, Models, Datasets, Challenges, and Future Prospects",2024
+2505.15863v1,Generative AI for Autonomous Driving: A Review,2025
+2503.13777v2,8-Calves Image dataset,2025
+2208.04549v1,Disentangled Representation Learning Using ($β$-)VAE and GAN,2022
+2502.12632v3,MALT Diffusion: Memory-Augmented Latent Transformers for Any-Length Video Generation,2025
+2102.10378v1,Self-Supervised Learning via multi-Transformation Classification for Action Recognition,2021
+2308.14480v2,Priority-Centric Human Motion Generation in Discrete Latent Space,2023
+2506.23205v1,BridgeShape: Latent Diffusion Schrödinger Bridge for 3D Shape Completion,2025
+2503.15617v1,CAM-Seg: A Continuous-valued Embedding Approach for Semantic Image Generation,2025
+2210.03454v4,DABERT: Dual Attention Enhanced BERT for Semantic Matching,2022
+2308.14319v1,Voice Conversion with Denoising Diffusion Probabilistic GAN Models,2023
+1911.07629v1,Selection-based Question Answering of an MOOC,2019
+2109.06756v1,ImUnity: a generalizable VAE-GAN solution for multicenter MR image harmonization,2021
+2306.01999v1,GAT-GAN : A Graph-Attention-based Time-Series Generative Adversarial Network,2023
+2312.10692v2,Pedestrian Attribute Recognition via CLIP based Prompt Vision-Language Fusion,2023
+2001.00132v1,Inf-VAE: A Variational Autoencoder Framework to Integrate Homophily and Influence in Diffusion Prediction,2020
+2101.04547v4,Of Non-Linearity and Commutativity in BERT,2021
+2407.15793v4,CLIP with Generative Latent Replay: a Strong Baseline for Incremental Learning,2024
+2305.17633v1,DPFormer: Learning Differentially Private Transformer on Long-Tailed Data,2023
+2204.08688v1,DecBERT: Enhancing the Language Understanding of BERT with Causal Attention Masks,2022
+2508.00756v2,LeakyCLIP: Extracting Training Data from CLIP,2025
+2106.00237v1,Improving Automatic Hate Speech Detection with Multiword Expression Features,2021
+2405.00239v3,"IgCONDA-PET: Weakly-Supervised PET Anomaly Detection using Implicitly-Guided Attention-Conditional Counterfactual Diffusion Modeling -- a Multi-Center, Multi-Cancer, and Multi-Tracer Study",2024
+2412.07168v1,3A-YOLO: New Real-Time Object Detectors with Triple Discriminative Awareness and Coordinated Representations,2024
+2504.03071v1,AD-GPT: Large Language Models in Alzheimer's Disease,2025
+2501.06769v1,ODPG: Outfitting Diffusion with Pose Guided Condition,2025
+1912.10435v1,BERTQA -- Attention on Steroids,2019
+2404.03144v1,Diverse and Tailored Image Generation for Zero-shot Multi-label Classification,2024
+2507.14706v1,Fraud is Not Just Rarity: A Causal Prototype Attention Approach to Realistic Synthetic Oversampling,2025
+2509.14777v1,Dataset Distillation for Super-Resolution without Class Labels and Pre-trained Models,2025
+2108.09691v1,Guiding Query Position and Performing Similar Attention for Transformer-Based Detection Heads,2021
+2004.05916v2,Telling BERT's full story: from Local Attention to Global Aggregation,2020
+2411.18577v1,On Importance of Code-Mixed Embeddings for Hate Speech Identification,2024
+2112.13706v2,Multi-Image Visual Question Answering,2021
+2405.00029v1,Automatic Creative Selection with Cross-Modal Matching,2024
+2306.10460v1,Instant Soup: Cheap Pruning Ensembles in A Single Pass Can Draw Lottery Tickets from Large Models,2023
+2408.15521v3,A Simple Baseline with Single-encoder for Referring Image Segmentation,2024
+1904.00962v5,Large Batch Optimization for Deep Learning: Training BERT in 76 minutes,2019
+2404.01571v1,Leveraging YOLO-World and GPT-4V LMMs for Zero-Shot Person Detection and Action Recognition in Drone Imagery,2024
+2308.03183v1,Photorealistic and Identity-Preserving Image-Based Emotion Manipulation with Latent Diffusion Models,2023
+2110.08152v1,Kronecker Decomposition for GPT Compression,2021
+2306.10128v1,Systematic Architectural Design of Scale Transformed Attention Condenser DNNs via Multi-Scale Class Representational Response Similarity Analysis,2023
+1909.04925v1,How Does BERT Answer Questions? A Layer-Wise Analysis of Transformer Representations,2019
+2308.16316v1,Ten Years of Generative Adversarial Nets (GANs): A survey of the state-of-the-art,2023
+2507.00707v1,BEV-VAE: Multi-view Image Generation with Spatial Consistency for Autonomous Driving,2025
+2106.03251v1,DyDiff-VAE: A Dynamic Variational Framework for Information Diffusion Prediction,2021
+2101.09647v1,Does Dialog Length matter for Next Response Selection task? An Empirical Study,2021
+2211.05273v1,BERT-Based Combination of Convolutional and Recurrent Neural Network for Indonesian Sentiment Analysis,2022
+2403.14302v2,SpikingResformer: Bridging ResNet and Vision Transformer in Spiking Neural Networks,2024
+2503.06900v1,DirectTriGS: Triplane-based Gaussian Splatting Field Representation for 3D Generation,2025
+2509.24979v2,Wan-Alpha: High-Quality Text-to-Video Generation with Alpha Channel,2025
+2412.03969v1,HyperDefect-YOLO: Enhance YOLO with HyperGraph Computation for Industrial Defect Detection,2024
+2410.02746v2,Contrastive Localized Language-Image Pre-Training,2024
+2101.08114v1,Classifying Scientific Publications with BERT -- Is Self-Attention a Feature Selection Method?,2021
+2310.05916v4,Interpreting CLIP's Image Representation via Text-Based Decomposition,2023
+2412.16919v3,TAR3D: Creating High-Quality 3D Assets via Next-Part Prediction,2024
+2412.17652v1,Benchmarking Generative AI Models for Deep Learning Test Input Generation,2024
+2507.17486v1,Unsupervised anomaly detection using Bayesian flow networks: application to brain FDG PET in the context of Alzheimer's disease,2025
+2305.13413v1,Syntactic Knowledge via Graph Attention with BERT in Machine Translation,2023
+2412.07446v4,A Causal World Model Underlying Next Token Prediction: Exploring GPT in a Controlled Environment,2024
+2409.10494v1,Incorporating Classifier-Free Guidance in Diffusion Model-Based Recommendation,2024
+1711.01804v2,Evaluation of Croatian Word Embeddings,2017
+2003.05443v1,A Precisely Xtreme-Multi Channel Hybrid Approach For Roman Urdu Sentiment Analysis,2020
+2402.04442v1,Evaluating Embeddings for One-Shot Classification of Doctor-AI Consultations,2024
+2211.11304v1,TCBERT: A Technical Report for Chinese Topic Classification BERT,2022
+2507.08039v1,Towards Evaluating Robustness of Prompt Adherence in Text to Image Models,2025
+2412.07772v4,From Slow Bidirectional to Fast Autoregressive Video Diffusion Models,2024
+2411.13836v1,CLIPer: Hierarchically Improving Spatial Representation of CLIP for Open-Vocabulary Semantic Segmentation,2024
