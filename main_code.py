@@ -70,7 +70,7 @@ with open("temp.pdf", "wb") as f:
     f.write(pdf_file.getbuffer())
 
 # Load using unstructured loader
-loader = UnstructuredPDFLoader("temp.pdf",strategy="hi_res")    #,mode="elements". 
+loader = UnstructuredPDFLoader("temp.pdf",strategy="hi_res")    #mode="elements". 
 docs = loader.load()
 
 def strip_references_regex(text):
