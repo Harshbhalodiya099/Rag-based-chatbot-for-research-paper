@@ -188,7 +188,7 @@ def format_docs(retrieved_docs):
 memory = ConversationBufferWindowMemory(
     memory_key="chat_history",
     return_messages=True,
-    k=2   # <-- keep only last 2 interactions
+    k=2   #keep only last 2 interactions
 )
 prompt = PromptTemplate(
     template="""You are a helpful assistant.
